@@ -1,5 +1,5 @@
 Collapsible Sidebar
-![alt text](image-1.png)
+![ScreenShot](image-1.png)
 CollapsibleSideNav is a fully responsive sidebar navigation system that allows users to toggle a menu with smooth animations. Built using vanilla HTML, CSS, and JavaScript, the project combines modern design principles with interactive features and animations.
 
 📌 Key Features
